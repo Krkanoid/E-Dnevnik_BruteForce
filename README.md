@@ -1,1 +1,1 @@
-# E-Dnevnik-Brute-Force-
+# EDnevnik Bruteforcer
