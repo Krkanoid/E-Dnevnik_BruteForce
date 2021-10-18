@@ -1,1 +1,0 @@
-# EDnevnik Bruteforcer
