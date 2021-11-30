@@ -1,1 +1,0 @@
-100 zvijezdica = update
